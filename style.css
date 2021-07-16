@@ -1,0 +1,32 @@
+
+.htmlreference {
+    color: coral;
+}
+
+.metadatos {
+    color: darkgoldenrod;
+}
+.blockcode {
+    color:greenyellow;
+}
+
+.caja {
+    background-color: orange;
+    width: 200px;
+    height: 20px;
+    padding: 20px;
+    border: 5px solid red;
+    margin-left: 50px;
+    
+}
+
+.caja2 {
+    background-color: yellow;
+    width: 30px;
+    height: 30px;
+    padding: 30px;
+    border: black 5px solid;
+    margin-top: 100px;
+    margin-bottom: 75px;
+    margin-left: 15px;
+}   
